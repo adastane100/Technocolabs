@@ -1,2 +1,0 @@
-# Technocolabs
-Internship Repository
